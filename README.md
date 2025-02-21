@@ -28,7 +28,6 @@
 
 如有疑问或合作意向，欢迎通过以下方式联系：
 
-- **Gmail**: [mailto:rhjflash@gmail.com](mailto:rhjflash@gmail.com)
-
+- **Gmail**  rhjflash@gmail.com
 ---
 
