@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 欢迎来访 Rhj_flash 的技术笔记 🌟
+## 🍀 关于我
+欢迎访问我的主页：[Rhj_flash 的主页](https://rhj_flash.github.io) 🚀
 
-<!--
-**rhj-flash/rhj-flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **工具、脚本、小型测试代码**  
+  [Code-Accumulation](https://github.com/rhj-flash/Code-Accumulation)
+
+
+
+## 📬 联系我
+- GitHub: [@rhj-flash](https://github.com/rhj-flash)  
+- 主页: [https://rhj_flash.github.io](https://rhj_flash.github.io) 🌐
+
+---
