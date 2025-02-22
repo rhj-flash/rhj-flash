@@ -20,13 +20,21 @@
 
 - **行云1.0**  
   一个专注于节省时间的创新的小项目  
-  🔗 [https://github.com/rhj-flash/XingYun-1.0](https://github.com/rhj-flash/XingYun-1.0)
+  🔗 [https://github.com/rhj-flash/XingYun-1.0]
+
+
+- **Github仓库管理命令**  
+  常用的流程和简单指令   
+  🔗 [https://github.com/rhj-flash/github-repository-command/edit/main/README.md] 
+
+
+
 
 ---
 
 ## 📬 联系我
 
-如有疑问或合作意向，欢迎通过以下方式联系：
+如有疑问或合作意向，欢迎主页留言或通过以下方式联系：
 
 - **Gmail**  rhjflash@gmail.com
 ---
