@@ -16,16 +16,17 @@
 
 ---
 
-## 💻 我的项目
+## 💻 我的仓库目录
 
+- **Github仓库管理命令**  
+  常用的流程和简单指令   
+  🔗 [https://github.com/rhj-flash/github-repository-command/edit/main/README.md]
+
+  
 - **行云1.0**  
   一个专注于节省时间的创新的小项目  
   🔗 [https://github.com/rhj-flash/XingYun-1.0]
 
-
-- **Github仓库管理命令**  
-  常用的流程和简单指令   
-  🔗 [https://github.com/rhj-flash/github-repository-command/edit/main/README.md] 
 
 
 
