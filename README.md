@@ -24,7 +24,7 @@
 
   
 - **行云1.0**  
-  一个专注于节省时间的创新的小项目  
+  一个基于Python专注于节省时间的脚本软件
   🔗 [https://github.com/rhj-flash/XingYun-1.0]
 
 
