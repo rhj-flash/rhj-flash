@@ -19,7 +19,7 @@
 ## 💻 我的仓库目录
 
 - **Github仓库管理命令**  
-  常用的流程和简单指令   
+  常用的流程和简单指令
   🔗 [https://github.com/rhj-flash/github-repository-command/edit/main/README.md]
 
   
