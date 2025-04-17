@@ -21,13 +21,11 @@
 - **Github仓库管理命令**  
   常用的流程和简单指令
   🔗 [https://github.com/rhj-flash/github-repository-command/edit/main/README.md]
-
-  
 - **行云1.0**  
   一个基于Python专注于节省时间的脚本软件
   🔗 [https://github.com/rhj-flash/XingYun-1.0]
-
-
+- **win10/11激活开源工具链接**  
+  🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
 
 
 
