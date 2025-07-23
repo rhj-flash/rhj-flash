@@ -26,6 +26,8 @@
   🔗 [https://github.com/rhj-flash/XingYun-1.0]
 - **win10/11激活开源工具链接**  
   🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
+- **写过的实用函数/代码片段**  
+  🔗 [https://github.com/rhj-flash/Function-Note]
 
 
 
