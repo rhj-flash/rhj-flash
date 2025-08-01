@@ -18,19 +18,11 @@
 
 ## 💻 我的仓库目录
 
-- **Github仓库管理命令**  
-  常用的流程和简单指令
-  🔗 [https://github.com/rhj-flash/github-repository-command]
-- **行云1.0**  
-  一个基于Python专注于节省时间的脚本软件
-  🔗 [https://github.com/rhj-flash/XingYun-1.0]
-- **win10/11激活开源工具链接（非本人开发/转载）**  
-  🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
-- **Chat_Tool**
-- python开发的用于LOL英雄联盟自动发送设定语言的小工具
-  🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
-- **写过的实用函数/代码片段**  
-  🔗 [https://github.com/rhj-flash/Function-Note]
+- **Github仓库管理命令**  常用的流程和简单指令  🔗 [https://github.com/rhj-flash/github-repository-command]
+- **行云1.0**  一个基于Python专注于节省时间的脚本软件  🔗 [https://github.com/rhj-flash/XingYun-1.0]
+- **win10/11激活开源工具链接（非本人开发/转载）**  🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
+- **Chat_Tool**  python开发的用于LOL英雄联盟自动发送设定语言的小工具  🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
+- **写过的实用函数/代码片段**  🔗 [https://github.com/rhj-flash/Function-Note]
 
 
 
