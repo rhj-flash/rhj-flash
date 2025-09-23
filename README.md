@@ -29,9 +29,10 @@
 - **Chat_Tool：** python开发的用于LOL英雄联盟自动发送设定语言的小工具 🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
 - **写过的实用函数/代码片段** 🔗 [https://github.com/rhj-flash/Function-Note]
 
-### 🔗 实用工具（第三方）
-- **Office激活开源工具链接（非本人开发/转载）** 🔗 [https://github.com/OdysseusYuan/Mocreak]
-- **Win10/11激活开源工具链接（非本人开发/转载）** 🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
+### 🔗 实用工具/优质仓库（非本人开发/转载）
+- **Office激活开源工具链接** 🔗 [https://github.com/OdysseusYuan/Mocreak]
+- **Win10/11激活开源工具链接** 🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
+- **Github仓库推荐/Hello_Github** 🔗 [https://github.com/521xueweihan/HelloGitHub/blob/master/README.md]
 
 ---
 
