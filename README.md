@@ -33,6 +33,7 @@
 - **Office激活开源工具链接** 🔗 [https://github.com/OdysseusYuan/Mocreak]
 - **Win10/11激活开源工具链接** 🔗 [https://github.com/TGSAN/CMWTAT_Digital_Edition/blob/master/README.zh.md]
 - **Github仓库推荐/Hello_Github** 🔗 [https://github.com/521xueweihan/HelloGitHub/blob/master/README.md]
+- **Win系统优化/管理工具** 🔗 [https://github.com/Chuyu-Team/Dism-Multi-language/releases]
 
 ---
 
