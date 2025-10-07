@@ -4,6 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rhj--flash-181717?style=for-the-badge&logo=github)](https://github.com/rhj-flash)
 [![邮箱](https://img.shields.io/badge/邮箱-rhjflash@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rhjflash@gmail.com)
 [![访问量](https://komarev.com/ghpvc/?username=rhj-flash&color=blue&style=for-the-badge)](https://github.com/rhj-flash)
+[![GitHub Stars](https://img.shields.io/github/stars/rhj-flash?style=for-the-badge&logo=github&color=yellow)](https://github.com/rhj-flash)
+[![GitHub Followers](https://img.shields.io/github/followers/rhj-flash?style=for-the-badge&logo=github&color=green)](https://github.com/rhj-flash)
 
 </div>
 
