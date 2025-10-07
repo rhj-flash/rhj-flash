@@ -17,7 +17,6 @@
 
 欢迎来到我的技术笔记！  
 在这里，我会分享 **工具、脚本** 以及一些 **小型测试代码**。  
-更多内容请访问我的主页：[https://github.com/rhj-flash](https://github.com/rhj-flash) 🚀
 
 ---
 
