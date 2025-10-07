@@ -7,16 +7,12 @@
 
 </div>
 
-
-
-
-
 ---
 
 ## 🍀 关于我
 
-欢迎来到我的技术笔记！  
-在这里，我会分享 **工具、脚本** 以及一些 **小型测试代码**。  
+欢迎来到我的技术笔记！
+在这里，我会分享 **工具、脚本** 以及一些 **小型测试代码**。
 
 ---
 
@@ -40,17 +36,17 @@
 
 - **邮箱** 🔗 [rhjflash@gmail.com]
 
-
 ---
 
 <div align="center">
 
-### 
+**Star 历史图表**
 
 [![Star历史图表](https://api.star-history.com/svg?repos=rhj-flash/github-repository-command,rhj-flash/XingYun-1.0,rhj-flash/LOL_Chat_Tool,rhj-flash/Function-Note&type=Date)](https://star-history.com/#rhj-flash/github-repository-command&rhj-flash/XingYun-1.0&rhj-flash/LOL_Chat_Tool&rhj-flash/Function-Note&Date)
 </div>
 
 ---
+
 ## 📝 GitHub统计
 <div align="center">
   <table style="width: 100%; border: none; border-collapse: collapse;">
@@ -68,4 +64,3 @@
 ## 🏆 GitHub 成就奖杯
 
 ![成就奖杯](https://github-profile-trophy.vercel.app/?username=rhj-flash&theme=radical&no-frame=true&margin-w=15)
-
