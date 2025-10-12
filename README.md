@@ -39,6 +39,8 @@
 - 🔗 [https://github.com/521xueweihan/HelloGitHub/blob/master/README.md]
 - **Win系统优化/管理工具**
 - 🔗 [https://github.com/Chuyu-Team/Dism-Multi-language/releases]
+- **OpenCV库**
+- 🔗 [https://github.com/opencv/opencv]
 
 ---
 
