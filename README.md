@@ -41,7 +41,7 @@
 - 🔗 [https://github.com/Chuyu-Team/Dism-Multi-language/releases]
 - **OpenCV库**
 - 🔗 [https://github.com/opencv/opencv]
-- **公共数据集**
+- **公共开源数据集**
 - 🔗 [https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#machinelearning] 
 
 
