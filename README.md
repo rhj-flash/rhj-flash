@@ -27,8 +27,7 @@
 - 🔗 [https://github.com/rhj-flash/XingYun-1.0]
 - **Chat_Tool：** python开发的用于LOL英雄联盟自动发送设定语言的小工具
 - 🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
-- **写过的实用函数/代码片段**
-- 🔗 [https://github.com/rhj-flash/Function-Note]
+
 
 ### 🔗 实用工具/优质仓库（非本人开发/转载）
 - **Office激活开源工具链接**
@@ -44,8 +43,8 @@
 - **公共开源数据集**
 - 🔗 [https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#machinelearning] 
 
-
-
+### 🛠️ 写过的实用函数/代码片段
+- 🔗 [https://github.com/rhj-flash/Function-Note]
 ---
 
 ## 📫 联系我
