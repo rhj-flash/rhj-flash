@@ -61,7 +61,7 @@
 
 **Star 历史图表**
 
-[![Star历史图表](https://api.star-history.com/svg?repos=rhj-flash/github-repository-command,rhj-flash/XingYun-1.0,rhj-flash/LOL_Chat_Tool,rhj-flash/Function-Note&type=Date)](https://star-history.com/#rhj-flash/github-repository-command&rhj-flash/XingYun-1.0&rhj-flash/LOL_Chat_Tool&rhj-flash/Function-Note&Date)
+[![Star历史图表](https://api.star-history.com/svg?repos=rhj-flash/github-repository-command&rhj-flash/XingYun-1.0&rhj-flash/LOL_Chat_Tool&rhj-flash/Function-Note&rhj-flash/Spider-Classification-GUI&type=Date)](https://star-history.com/#rhj-flash/github-repository-command&rhj-flash/XingYun-1.0&rhj-flash/LOL_Chat_Tool&rhj-flash/Function-Note&rhj-flash/Spider-Classification-GUI&Date)
 </div>
 
 ---
