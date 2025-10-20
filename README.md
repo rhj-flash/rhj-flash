@@ -27,6 +27,10 @@
 - 🔗 [https://github.com/rhj-flash/XingYun-1.0]
 - **Chat_Tool：** python开发的用于LOL英雄联盟自动发送设定语言的小工具
 - 🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
+- **Spider-Classification-GUI：** 基于 PyTorch 和 Tkinter 的多模型（ResNet, EfficientNet, DenseNet）集成蜘蛛图像识别系统
+- 🔗 [https://github.com/rhj-flash/Spider-Classification-GUI]
+
+
 
 
 ### 🔗 实用工具/优质仓库（非本人开发/转载）
