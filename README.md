@@ -23,12 +23,14 @@
 ### 🛠️ 我的项目
 - **Github仓库管理命令：** 常用的流程和简单指令
 - 🔗 [https://github.com/rhj-flash/github-repository-command]
-- **行云1.0：** 一个基于Python专注于节省时间的脚本软件
+- **行云1.0：** 基于Python专注于节省时间的脚本软件
 - 🔗 [https://github.com/rhj-flash/XingYun-1.0]
 - **Chat_Tool：** python开发的用于LOL英雄联盟自动发送设定语言的小工具
 - 🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
-- **Spider-Classification-GUI：** 基于 PyTorch 和 Tkinter 的多模型（ResNet, EfficientNet, DenseNet）集成蜘蛛图像识别系统
+- **Spider-Classification-GUI：** PyTorch 和 Tkinter 的多模型（ResNet, EfficientNet, DenseNet）集成蜘蛛图像识别系统
 - 🔗 [https://github.com/rhj-flash/Spider-Classification-GUI]
+- **[1]：** 用于格式化并导出 Word 专用学术文献列表的 Python/PyQt6 工具
+- 🔗 [https://github.com/rhj-flash/Reference-Formatter-Tool]
 
 
 
