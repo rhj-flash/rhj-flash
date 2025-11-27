@@ -29,7 +29,7 @@
 - 🔗 [https://github.com/rhj-flash/LOL_Chat_Tool]
 - **Spider-Classification-GUI：** PyTorch 和 Tkinter 的多模型（ResNet, EfficientNet, DenseNet）集成蜘蛛图像识别系统
 - 🔗 [https://github.com/rhj-flash/Spider-Classification-GUI]
-- **[1]：** 用于格式化并导出 Word 专用学术文献列表的 Python/PyQt6 工具
+- **[1]：** 论文引用格式生成器
 - 🔗 [https://github.com/rhj-flash/Reference-Formatter-Tool]
 
 
